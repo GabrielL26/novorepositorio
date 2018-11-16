@@ -1,4 +1,26 @@
 Novo arquivo
+<<<<<<< HEAD
 
 conteudo novo asdjkdkla
 adsjkldas
+=======
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+Novo arquivo
+>>>>>>> 7aae8054da8e86073919046100bfddf771721f49
